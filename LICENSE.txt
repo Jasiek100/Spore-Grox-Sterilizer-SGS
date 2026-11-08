@@ -1,0 +1,34 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Copyright (C) 2026 Jasiek100. All Rights Reserved.
+
+Project: Spore Grox Sterilizer (SGS) v1.0
+Author: Jasiek100
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+==============================================================================
+ATTRIBUTION & NON-PLAGIARISM NOTICE
+==============================================================================
+This software was reverse-engineered, authored, and published by Jasiek100.
+
+1. You must give prominent, clear, and visible credit to the original author (Jasiek100) 
+   in all copies, distributions, derived works, forum posts, mod pages, or videos.
+2. You may NOT remove or alter the author's name (Jasiek100), watermark, copyright 
+   notice, or repository attribution from the source code, UI, or compiled binaries.
+3. Any redistribution must remain open-source under this same license (GNU GPLv3).
+4. Selling this software, charging for access, or bundling it into paid packages 
+   is strictly prohibited.
+
+==============================================================================
+TERMS AND CONDITIONS (GNU GPLv3)
+==============================================================================
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
