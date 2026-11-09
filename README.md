@@ -5,6 +5,9 @@
 ---
 
 ## ★ Overview
+<p align="center">
+  <img src="SPGS%208.11.2026.png" alt="Spore Grox Sterilizer Interface" width="750">
+</p>
 **Spore Grox Sterilizer (SGS)** is a standalone external tool for EA's *Spore* that autonomously neutralizes Grox star systems within a 20-parsec radius around the player ship.
 
 Unlike traditional modding approaches, **SGS requires ZERO game modifications**:
