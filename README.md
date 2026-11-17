@@ -11,7 +11,7 @@
 Spore Grox Sterilizer (SGS) is a external program for EA's *Spore* that autonomously neutralizes Grox star systems within a 20-parsec radius around the player ship.
 
 ## ★ How to Use
-https://github.com/Jasiek100/Spore-Grox-Sterilizer-SGS/releases](https://github.com/Jasiek100/Spore-Grox-Sterilizer-SGS/releases
+https://github.com/Jasiek100/Spore-Grox-Sterilizer-SGS/releases/tag/v.1.0.0
 1. Launch Spore and enter the Space Stage.
 2. Run `SGS_V1.0.exe'.
 3. Fly your spaceship toward Grox territory.
